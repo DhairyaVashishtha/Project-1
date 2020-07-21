@@ -1,0 +1,10 @@
+1, The tallest titan(Attack on titan): , Armor titan, Colossal titan, female titan, Beast titan, 2
+2, Outcome of cointoss(no game no life): , Tie, Head, Tael, None, 1
+3, Symbol of Escanor(Nanatsu no tiaizai): ,Dragon, Boar, Lion, Fox, 3
+4, Name of the main character(One-Punch Man):, KiKasu, Naruto, Kirito, Saitama, 4 
+5, Sora and Shiro together what name(no game no life): , Game God, Blank, Soro, Nothing, 2
+6, Accelerator ability(Certain magical index):, Thunder, Teleportation, Imagin breaker, Vector manupulation, 4
+7, Lucifer's host(Black clover):,Dante , Asta, Vanica, Zenan, 1
+8, How many cores does Deku have(boku no hero academia):, One, Seven, Six, Nine, 3
+9, Alchemists greatest taboo(Fullmetal alchemist brotherhood):, Human transmulation, Object creation, Fireburst, None, 1
+10, True name of L(Death nothe):, L, Ryuzaki, Lawliet, None, 3
