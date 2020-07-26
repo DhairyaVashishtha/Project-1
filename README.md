@@ -1,4 +1,5 @@
-# Project-1
+# Anime maestro quiz.
+
 creator of project - Dhairya vahishtha
 class - XII (12)
 my 1st project for school that i made .. weel corently i am quit noob do 
